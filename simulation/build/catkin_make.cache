@@ -1,0 +1,2 @@
+control:leg_utils:standurdf_description
+-DCATKIN_DEVEL_PREFIX=/home/danya/lonesome-leg/simulation/devel -DCMAKE_INSTALL_PREFIX=/home/danya/lonesome-leg/simulation/install -G Unix Makefiles
