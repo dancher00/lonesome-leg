@@ -1,2 +1,9 @@
-# lonesome-leg
-This repository belongs to a team of students who valiantly completed the Advanced Control Method course at Skoltech
+# Simulation
+
+```
+source /path_to_ros_dir/setup.bash
+catkin_make
+source devel/setup.bash
+roslaunch controller.launch
+
+```
