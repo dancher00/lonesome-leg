@@ -1,8 +1,0 @@
-prefix=/home/danya/lonesome-leg/simulation/install
-
-Name: leg_controller
-Description: Description of leg_controller
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 

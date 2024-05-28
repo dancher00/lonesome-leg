@@ -1,8 +1,0 @@
-prefix=/home/danya/lonesome-leg/simulation/devel
-
-Name: leg_utils
-Description: Description of leg_utils
-Version: 0.0.0
-Cflags: 
-Libs: -L${prefix}/lib 
-Requires: 
